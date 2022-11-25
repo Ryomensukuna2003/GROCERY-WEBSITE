@@ -38,7 +38,7 @@ Here are some Screenshots
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Shivanshu Mishra](https://twitter.com/your_username) - email@example.com
+Your Name - [Shivanshu Mishra] - mshivanshu1264@gmail.com
 
 Project Link: [https://github.com/Ryomensukuna2003/GROCERY-WEBSITE/](https://github.com/Ryomensukuna2003/GROCERY-WEBSITE/)
 
