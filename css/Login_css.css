@@ -95,6 +95,6 @@ body {
     font-family:sans-serif;
   }
   
-  .btn:hover{
-    background:var(--black);
-  }
+  /* .btn:hover{
+    background:var(--green);
+  } */
