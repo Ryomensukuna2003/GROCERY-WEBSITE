@@ -60,9 +60,9 @@
                     </ul>
                 </nav>
                     <ul class="px-6 py-6 flex space-x-7 justify-center font-semibold ">
-                        <li class="login_button cursor-pointer text-lg pt-4  border-black">Log in</li>
+                        <li class="login_button cursor-pointer text-lg pt-4  border-black"><a href="login_page.php" target="_top">Log in</a></li>
                         <button class="button ">
-                            <a href="Login_page.html" target="_top">Sign Up</a>
+                            <a href="sign_up.php" target="_top">Sign Up</a>
                         </button>
                     </ul>
             </nav>
@@ -109,15 +109,6 @@
             <button onclick="alert('You have to Sign in First')" class="button ">ORDER NOW</button>
                 <br>
                 <br>
-            <a href="https://www.facebook.com/" target="_blank">
-                <i class="fa-brands fa-facebook fa-2x pl-20 "></i>
-            </a>
-            <a href="https://www.instagram.com/_shivanshu_mishra_/" target="_blank">
-                <i class="fa-brands fa-instagram fa-2x pl-3 "></i>
-            </a>
-            <a href="https://github.com/Ryomensukuna2003" target="_blank">
-                <i class="fa-brands fa-github fa-2x pl-3 "></i>
-            </a>
             
             </div>
         </main>
